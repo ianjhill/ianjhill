@@ -13,24 +13,24 @@ You can click the Preview link to take a look at your changes.
 My Projects
 
 Instagram Clone 
-  Tech Used
-    - Swift (SwiftUI)
-    - Firebase
-    - CocoaPods
+Tech Used
+- Swift (SwiftUI)
+- Firebase
+- CocoaPods
 
 Mortgage Calculator
-  Tech Used
-    - Swift (SwiftUI)
+Tech Used
+- Swift (SwiftUI)
 
 AiImage Generator
-  Tech Used
-    - Swift (SwiftUI)
-    - OpenAI
+Tech Used
+- Swift (SwiftUI)
+- OpenAI
 
 Workout App
-  Tech Used
-    - Swift (SwiftUI)
+Tech Used
+- Swift (SwiftUI)
 
 Calculator
-  Tech Used
-    - Swift (SwiftUI)
+Tech Used
+- Swift (SwiftUI)
