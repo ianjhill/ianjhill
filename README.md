@@ -1,6 +1,8 @@
-- 👋 Hi, My name is Ian Hill, @ianjhill. I am a iOS Developer proficient in the Swift programming language. I am actively being educated through the iOS community and developing applications for personal use. I am looking to gain a foot in the door of not only iOS. I'm eager to gain experience through mentorships or continuing the process of learning and practicing project building online.
-- 🌱 I’m currently learning Swift/UI and plan on creating and contributing to projects as to deomstrate my iOS development skills to future employers.
-- 💞️ I’m looking for entry-level opportunities that can jumpstart my career of becoming a reliable and confident software developer.
+- 👋 Hi, My name is Ian Hill, @ianjhill. I am a current Data Science Masters major at Ramapo College of New Jersey. I am actively practicing data science programming utlizing Python, SQL, Tableau, Excel for data analysis and visualization to gain insights in popular data sets.
+- I also have experience with iOS programming utilizing Swift to develop several mini programs to showcase my versatility within the developer space.
+- I currently am enrolled in RCNJ's M.S. Data Science. [Projected to graduate December 2025]
+- I graduated from RCNJ with a B.S. Biology [May 2022]
+- 💞️ I am available for full-time and internship roles specializing in data science specific fields.
 - 📫 How to reach me ianjhill1@gmail.com,
                      @ianjhill1 on Twitter
 
