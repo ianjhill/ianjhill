@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Ian Hill, @ianjhill. I am a current Data Science Masters major at Ramapo College of New Jersey. I am actively practicing data science programming utlizing Python, SQL, Tableau, Excel for data analysis and visualization to gain insights in popular data sets.
+- 👋 Hi, My name is Ian Hill, @ianjhill. I am a current Data Science Masters major at Ramapo College of New Jersey. I am actively practicing data science programming utlizing Python, R, SQL, Tableau, Excel for data analysis and visualization to gain insights in popular data sets.
 - I also have experience with iOS programming utilizing Swift to develop several mini programs to showcase my versatility within the developer space.
 - I currently am enrolled in RCNJ's M.S. Data Science. [Projected to graduate December 2025]
 - I graduated from RCNJ with a B.S. Biology [May 2022]
