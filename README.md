@@ -27,6 +27,13 @@ Tech Used
   - Sci-kit Machine Learning Models
 - Quarto Markdown
 
+# MLB Attendance Analysis
+- R
+
+# COVID-19 Mortality Rate Analysis
+Tech Used
+- Tableau
+
 # Instagram Clone 
 Tech Used
 - Swift (SwiftUI)
