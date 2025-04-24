@@ -22,7 +22,10 @@ Tech Used
 # NFL Combine Analysis
 Tech Used
 - Python
-- 
+  - Pandas
+  - Seaborn/Matplotlib
+  - Sci-kit Machine Learning Models
+- Quarto Markdown
 
 # Instagram Clone 
 Tech Used
