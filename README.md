@@ -14,6 +14,15 @@ You can click the Preview link to take a look at your changes.
 
 My Projects
 
+# Retail Sales ETL Pipeline with AWS
+Tech Used
+- **AWS S3** – Data lake storage for raw and cleaned data
+- **AWS Glue** – Crawlers + ETL (PySpark)
+- **AWS Athena** – Serverless SQL querying
+- **AWS QuickSight** – Interactive dashboards
+- **Python** – Data generation and scripting
+- **Faker** – Synthetic retail sales data generation
+
 # Database Normalization Tool
 Tech Used
 - Python
